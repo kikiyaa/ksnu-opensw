@@ -1,2 +1,0 @@
-# ksnu-opensw
-# first line
