@@ -1,2 +1,3 @@
 add in re main
-modify in develop2
+modify in develo revised
+add new function
