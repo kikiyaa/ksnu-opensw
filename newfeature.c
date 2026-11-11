@@ -1,3 +1,3 @@
-// develop version
+// master version
 modify in develo revised
 add new function
